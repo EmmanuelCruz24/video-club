@@ -1,66 +1,45 @@
-# Project Title
+# Projecto Video-Club
 
-One Paragraph of project description goes here
+Este es un proyecto para comprobar la creacion de una carpeta llamada video-club y que el repositorio este correctamente conectado, por lo que mi archivo se considera solo de prueba pasandome en la plantilla previamente obtenida de la plataforma de virtual4 de la UACH para la entrega de esta tarea llamada Repositorios Administrativos.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Para esta tarea hice una copia de la plantilla y que esta estuviera conectada en los diferentes repositorios GithUB, GitLab y Bitbucket por medio de mis credenciales de usuario
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Los prerequisitos que tuve que hacer fue una cuenta de Git, para despues conectarla con GitHub, GitLab y por ultimo en Bitbucket
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+1. Crear una carpeta llamada video-club.
+2. Entrar a esta por medio de GitBASH.
+3. Crear un archivo READ.me vacio.
+4. Copiar en el directorio de Git la plantilla.
+5. Personalizar la plantilla a eleccion del usuario.
+6. Crear o iniciar sesion en GitHub, GitLab y Bitbucket.
+7. Copiar este repositorio a cada una de las cuentas ligadas del usuario.
+8. Confirmar la creacion de la plantilla y los datos de esta en cada repositorio.
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+No cuenta con pruebas automatizadas
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
+Sin hacer pruebas de momento a mi proyecto de prueba
 
 ### And coding style tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
+No cuenta con algun estilo de codificacion
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Aun no he puesto alguna implemenacion en mi proyecto
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+Este proyecto de prueba lo base directamente de Git usando Git BASH
 
 ## Contributing
 
@@ -71,6 +50,8 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
+
+* **Emmanuel Cruz** - Autor de esta plantilla nueva y modificador de la plantilla original obtenida de Billie Thompson - PurpleBooth
 
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
